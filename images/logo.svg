@@ -1,0 +1,24 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+
+ <title stroke="null">rack2</title>
+ <desc stroke="null">Created with Sketch.</desc>
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="62" width="62" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="null" fill-rule="evenodd" fill="none" id="Page-1">
+   <g stroke="null" id="Shape" fill="#FFFFFF">
+    <path stroke="null" id="svg_1" d="m15.168419,24.028307l16.541684,0l-20.834945,-20.834945c-2.272903,-2.272903 -6.061075,-2.272903 -8.333978,0c-2.272903,2.272903 -2.272903,6.061075 0,8.333978l12.62724,12.500967z"/>
+    <path stroke="null" id="svg_2" d="m43.636273,35.641685l-16.541684,0l21.845124,21.845124c2.272903,2.272903 6.061075,2.272903 8.333978,0c2.272903,-2.272903 2.272903,-6.061075 0,-8.333978l-13.637419,-13.511146z"/>
+   </g>
+   <g stroke="null" id="Shape" fill="#B3D4FF">
+    <path stroke="null" id="svg_3" d="m44.397894,24.059467l13.006057,-13.006057c2.272903,-2.272903 2.272903,-6.061075 0,-8.333978c-2.272903,-2.272903 -6.061075,-2.272903 -8.333978,0l-21.340035,21.340035l16.667956,0z"/>
+    <path stroke="null" id="svg_4" d="m15.986605,35.624547l-13.006057,13.006057c-2.272903,2.272903 -2.272903,6.061075 0,8.333978c2.272903,2.272903 6.061075,2.272903 8.333978,0l21.340035,-21.340035l-16.667956,0z"/>
+   </g>
+  </g>
+  <path stroke="#000" id="svg_7" d="m64.818985,10.790735" opacity="0.5" stroke-width="1.5" fill="#fff"/>
+ </g>
+</svg>
